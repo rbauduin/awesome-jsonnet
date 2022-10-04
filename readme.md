@@ -48,6 +48,7 @@ _Source_: [jsonnet.org][jsonnet]
 - [Jsonnet Getting Started][jsonnet/getting-started] - Official Jsonnet getting started guide.
 - [Implus Jsonnet Tutorial](https://youtu.be/i5PVp92tAmE) - Jsonnet high-level tutorial.
 - [Jsonnet Community][jsonnet/community] - Jsonnet communities.
+- [Udemy course](https://www.udemy.com/course/jsonnet-from-scratch/?referralCode=EFA565D6914866D5FADE) - Learn Jsonnet from Scratch
 
 ### References
 
